@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# eqela8
+#
+
+projectname: eqela8
+vendorid: com.tan.example.eqela8
+mainmodule: com.tan.example.eqela8.eqela8
